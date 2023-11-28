@@ -1,0 +1,22 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Thu Nov 23 09:50:44 2023
+# Process ID: 7224
+# Current directory: C:/Users/moham/project_1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent10360 C:\Users\moham\project_1\project_1.xpr
+# Log file: C:/Users/moham/project_1/vivado.log
+# Journal file: C:/Users/moham/project_1\vivado.jou
+# Running On: DESKTOP-O3UC2KR, OS: Windows, CPU Frequency: 2419 MHz, CPU Physical cores: 4, Host memory: 16844 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/moham/project_1/project_1.xpr
+update_compile_order -fileset sources_1
+add_files -norecurse {{C:/Users/moham/Desktop/Bachelor/3-Derde jaar/Semester 1/multiplier/FullAdder.vhd} {C:/Users/moham/Desktop/Bachelor/3-Derde jaar/Semester 1/multiplier/instruction_mem.vhd} {C:/Users/moham/Desktop/Bachelor/3-Derde jaar/Semester 1/multiplier/multiplier.vhd}}
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+launch_simulation
+source DataPath_tb.tcl
+close_sim

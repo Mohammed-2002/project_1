@@ -1,0 +1,19 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../Desktop/Bachelor/3-Derde jaar/Semester 1/base/base/ALU_RV32.vhd" \
+"../../../../../Desktop/Bachelor/3-Derde jaar/Semester 1/base/base/Branch_Control.vhd" \
+"../../../../../Desktop/Bachelor/3-Derde jaar/Semester 1/base/base/Control.vhd" \
+"../../../../../Desktop/Bachelor/3-Derde jaar/Semester 1/base/base/DataPath.vhd" \
+"../../../../../Desktop/Bachelor/3-Derde jaar/Semester 1/base/base/Data_Mem.vhd" \
+"../../../../../Desktop/Bachelor/3-Derde jaar/Semester 1/multiplier/FullAdder.vhd" \
+"../../../../../Desktop/Bachelor/3-Derde jaar/Semester 1/base/base/Immediate_Generator.vhd" \
+"../../../../../Desktop/Bachelor/3-Derde jaar/Semester 1/base/base/Mux.vhd" \
+"../../../../../Desktop/Bachelor/3-Derde jaar/Semester 1/base/base/Mux_ToRegFile.vhd" \
+"../../../../../Desktop/Bachelor/3-Derde jaar/Semester 1/base/base/PC.vhd" \
+"../../../../../Desktop/Bachelor/3-Derde jaar/Semester 1/base/base/Reg_File.vhd" \
+"../../../../../Desktop/Bachelor/3-Derde jaar/Semester 1/multiplier/instruction_mem.vhd" \
+"../../../../../Desktop/Bachelor/3-Derde jaar/Semester 1/multiplier/multiplier.vhd" \
+"../../../../../Desktop/Bachelor/3-Derde jaar/Semester 1/base/base/testbenches/DataPath_tb.vhd" \
+
+# Do not sort compile order
+nosort

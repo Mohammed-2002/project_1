@@ -1,0 +1,18 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/Users/moham/Desktop/Bachelor/3-Derde jaar/Semester 1/base/base/ALU_RV32.vhd,1700571313,vhdl,,,,alu_rv32,,,,,,,,
+C:/Users/moham/Desktop/Bachelor/3-Derde jaar/Semester 1/base/base/Branch_Control.vhd,1700571313,vhdl,,,,branch_control,,,,,,,,
+C:/Users/moham/Desktop/Bachelor/3-Derde jaar/Semester 1/base/base/Control.vhd,1700733308,vhdl,,,,control,,,,,,,,
+C:/Users/moham/Desktop/Bachelor/3-Derde jaar/Semester 1/base/base/DataPath.vhd,1700734420,vhdl,C:/Users/moham/Desktop/Bachelor/3-Derde jaar/Semester 1/base/base/testbenches/DataPath_tb.vhd,,,datapath,,,,,,,,
+C:/Users/moham/Desktop/Bachelor/3-Derde jaar/Semester 1/base/base/Data_Mem.vhd,1700571313,vhdl,,,,data_mem,,,,,,,,
+C:/Users/moham/Desktop/Bachelor/3-Derde jaar/Semester 1/base/base/Immediate_Generator.vhd,1700571313,vhdl,,,,immediate_generator,,,,,,,,
+C:/Users/moham/Desktop/Bachelor/3-Derde jaar/Semester 1/base/base/Mux.vhd,1700571313,vhdl,,,,mux,,,,,,,,
+C:/Users/moham/Desktop/Bachelor/3-Derde jaar/Semester 1/base/base/Mux_ToRegFile.vhd,1700571313,vhdl,,,,mux_toregfile,,,,,,,,
+C:/Users/moham/Desktop/Bachelor/3-Derde jaar/Semester 1/base/base/PC.vhd,1700571313,vhdl,,,,pc,,,,,,,,
+C:/Users/moham/Desktop/Bachelor/3-Derde jaar/Semester 1/base/base/Reg_File.vhd,1700571313,vhdl,,,,reg_file,,,,,,,,
+C:/Users/moham/Desktop/Bachelor/3-Derde jaar/Semester 1/base/base/testbenches/DataPath_tb.vhd,1700571314,vhdl,,,,datapath_tb;datapath_tb_arch_datapath_cfg,,,,,,,,
+C:/Users/moham/Desktop/Bachelor/3-Derde jaar/Semester 1/multiplier/FullAdder.vhd,1700729919,vhdl,,,,fulladder,,,,,,,,
+C:/Users/moham/Desktop/Bachelor/3-Derde jaar/Semester 1/multiplier/instruction_mem.vhd,1700729919,vhdl,,,,instruction_mem,,,,,,,,
+C:/Users/moham/Desktop/Bachelor/3-Derde jaar/Semester 1/multiplier/multiplier.vhd,1700729920,vhdl,,,,multiplier,,,,,,,,
